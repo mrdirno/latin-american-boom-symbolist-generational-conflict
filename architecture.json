@@ -1,0 +1,160 @@
+{
+  "book_id": "latin_american_boom_symbolist_generational_conflict",
+  "title": "The Dust That Dreams of Volcanoes",
+  "tagline": "In a city of literary giants, a young writer must map the silence left by their cataclysms.",
+  "target_words": 70000,
+  "actual_words": 65654,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Burden of Literary Legacy",
+    "Quiet Resistance vs. Loud Revolution",
+    "Memory as Dust and Debris",
+    "The Cartography of Aftermath"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Dust-Rain",
+      "words": 2735
+    },
+    {
+      "ch": 2,
+      "title": "The Geometry of Refusal",
+      "words": 2800
+    },
+    {
+      "ch": 3,
+      "title": "The Café of Certainties",
+      "words": 2750
+    },
+    {
+      "ch": 4,
+      "title": "Ediciones del Alba",
+      "words": 2700
+    },
+    {
+      "ch": 5,
+      "title": "The Single Thread",
+      "words": 2650
+    },
+    {
+      "ch": 6,
+      "title": "Don Rafael's First War",
+      "words": 2900
+    },
+    {
+      "ch": 7,
+      "title": "Manifesto on a Stencil",
+      "words": 2600
+    },
+    {
+      "ch": 8,
+      "title": "The Hollow of an Aria",
+      "words": 2750
+    },
+    {
+      "ch": 9,
+      "title": "Camila's Dissection",
+      "words": 2850
+    },
+    {
+      "ch": 10,
+      "title": "The Borrowed Underwood",
+      "words": 2700
+    },
+    {
+      "ch": 11,
+      "title": "A Faulty Pump",
+      "words": 2650
+    },
+    {
+      "ch": 12,
+      "title": "The Archive of Grit",
+      "words": 2800
+    },
+    {
+      "ch": 13,
+      "title": "Sebastián's Grid",
+      "words": 2600
+    },
+    {
+      "ch": 14,
+      "title": "Mother's Intercession",
+      "words": 2750
+    },
+    {
+      "ch": 15,
+      "title": "The Cooling Lava Field",
+      "words": 2900
+    },
+    {
+      "ch": 16,
+      "title": "Alonso's Calculus",
+      "words": 2700
+    },
+    {
+      "ch": 17,
+      "title": "The Ghost's Manuscript",
+      "words": 2650
+    },
+    {
+      "ch": 18,
+      "title": "A Whisper in the Ruins",
+      "words": 2800
+    },
+    {
+      "ch": 19,
+      "title": "The Vanguard's Detachment",
+      "words": 2750
+    },
+    {
+      "ch": 20,
+      "title": "The Taste of History",
+      "words": 2850
+    },
+    {
+      "ch": 21,
+      "title": "The Map and the Territory",
+      "words": 2700
+    },
+    {
+      "ch": 22,
+      "title": "The Necessary Rupture",
+      "words": 2600
+    },
+    {
+      "ch": 23,
+      "title": "Flowers in the Ash",
+      "words": 2950
+    },
+    {
+      "ch": 24,
+      "title": "The Weather of Memory",
+      "words": 2800
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a story from the perspective of a forgotten side character in one of Don Rafael's legendary novels, living in the shadow of his 'loud' history.",
+      "Compose a 'quiet' manifesto for a new literary movement that values measurement, silence, and aftermath over cataclysm and declaration.",
+      "Create a folktale that Camila would deconstruct in her clinical prose, and then write her deconstruction of it.",
+      "Describe a single, mundane object in Mateo's apartment that holds a universe of unspoken family history and conflict."
+    ],
+    "technical": [
+      "Build a 'Dustfall Generator' that layers textual fragments from different eras (colonial, boom, modern) to create a palimpsest of a fictional city's history.",
+      "Create a narrative tension visualizer that maps the 'decibel level' of prose (metaphorical intensity, action) against 'quiet precision' across chapters of a generational saga."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Julio Cortázar",
+      "Clarice Lispector",
+      "Jorge Luis Borges",
+      "Juan Rulfo"
+    ]
+  },
+  "cover_prompt": "A young writer, their face a map of quiet determination, carefully arranges fragments of shattered typewriter keys and burnt manuscript pages on a vast, empty desk, [in a cavernous, shadowy library where the towering shelves are carved from dark volcanic rock and the books are covered in a fine, luminous ash], [in the evocative and magical realist style of Remedios Varo, blended with the textured, earthy symbolism of Francisco Toledo], [book cover framing, a centered and intimate close-up that feels like a secret witnessed, the composition layered with symbolic debris in the foreground], [dramatic chiaroscuro lighting where the only illumination is a single, dusty beam of warm amber light cutting through the gloom, highlighting the dust motes that float like memories, color palette of deep umbers, volcanic black, ash grey, and accents of burnt sienna and glowing amber], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
